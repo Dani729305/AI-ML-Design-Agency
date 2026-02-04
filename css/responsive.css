@@ -1,0 +1,410 @@
+@media (max-width:1080px){
+    .page-1 h1{
+    font-size: 5rem;
+    line-height: 5rem;
+}
+}
+
+@media (max-width:800px){
+
+    nav{
+    width: 100%;
+    padding: 2rem;
+}
+nav .nav-part-2{
+    padding: 1vh 0;
+    gap: 1rem;
+}
+nav .nav-part-2 h4{
+    font-size: 0.8rem;
+}
+nav .nav-part-2 h5{
+    margin-top: 1vw;
+}
+
+    .page-1 h1{
+    font-size: 4rem;
+    line-height: 5rem;
+}
+.moving{
+    margin-top: 0vh;
+    bottom: 7%;
+    width: 60%;
+}
+.moving .move img{
+    height: 2vw;
+}
+.page-2 .left{
+    height: 30%;
+    width: 100%;
+    /* background-color: #333; */
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 0 2vw;
+    margin-bottom: 7vw;
+}
+.page-2 .right{
+    height: 100%;
+    width: 100%;
+}
+.page-2 .right .right-elem img{
+    width: 70px;
+    height: 70px;
+}
+.page-3 .center{
+    width: 120px;
+    height: 120px;
+}
+.center img{
+    width: 30px;
+}
+.inner .inner-left h2{
+    font-size: 2rem;
+    line-height: 4vw;
+}
+.page-5 .inner .card{
+    padding: 10px 0;
+}
+.page-5 .inner .card h2{
+    font-size: 3rem;
+    font-weight: 400;
+}
+.page-6 .inner{
+    width: 100%;
+    height: 80vh;
+    padding: 2vw 4vw;
+}
+.page-7{
+       padding: 1vw 7vw;
+    }
+.page-7 .page-right{
+    width: 100%;
+}
+.page-7>button{
+        display: none;
+    }
+    .page-7 .page-right>p{
+    font-size: 1.3rem;
+    line-height: 35px;
+    padding: 5vh 3vw;
+}
+.page-8{
+    padding: 5vw 5vw;
+}
+.page-8 h1{
+    font-size: 3.5vw;
+    width: 100%;
+    margin-left: 0;
+}
+.page-8 .blue-btn{
+    display: none;
+}
+.page-8 .page-8-content{
+    margin-top: 3vh;
+    border-top: 1px solid #dadada;
+    justify-content: center;
+    padding: 5vh 0;
+}
+.page-8 .page-8-content .right{
+    width: 100%;
+}
+.page-8 .page-8-content .right p{
+    font-size: 1.5rem;
+    margin-bottom: 10vh;
+    line-height: 1.5;
+}
+.page-8-bottom{
+    height: 60vh;
+}
+.page-8-bottom .part-1{
+    width: 15%;
+}
+
+.page-8-bottom .part-2{
+    width: 35%;
+     padding: 3vh 1vh;
+}
+.page-8-bottom .part-3{
+    width: 25%;
+}
+.page-8-bottom .part-4{
+    width: 25%;
+}
+.page-8-bottom .part-5{
+    width: 15%;
+}
+.page-8-bottom  h3{
+    margin-bottom: 3vh;
+}
+.page-8-bottom  p{
+    margin-bottom: 8px;
+    width: 90%;
+    height: 5vh;
+    margin-left: 1.5vw;
+    font-size: 15px;
+}
+.page-8-bottom  span{
+    padding: 5px 10px;
+}
+.page-9{
+    height: 25vh;
+}
+.page-9 h2{
+    font-size: 3rem;
+}
+}
+
+@media (max-width:660px){
+
+    nav{
+        display: none;
+    }
+
+    .flexi h1{
+    display: inline-block;
+    background-color: #111;
+    width: 100%;
+    border-bottom: 1px solid white;
+}
+.moving{
+    margin-top: 0vh;
+    bottom: 7%;
+    width: 70%;
+}
+.moving .move img{
+    height: 3vw;
+}
+.page-2 .right .right-elem img{
+    width: 60px;
+    height: 60px;
+}
+.page-3 .center{
+    width: 100px;
+    height: 100px;
+}
+.center img{
+    width: 20px;
+}
+.inner .inner-left h2{
+    font-size: 1.5rem;
+    line-height: 4vw;
+}
+.page-5 .inner .card{
+    width: 40%;
+    height: 45%;
+    padding: 30px 20px;
+}
+.page-5 .inner .card h2{
+    font-size: 2rem;
+}
+.page-6 .inner{
+    width: 100%;
+    min-height: 80vh;
+    padding: 0 4vw;
+}
+.page-6 .inner .left{
+    width: 80%;
+    height: 30%;
+}
+.page-6 .inner .left h2{
+    font-size: 1.5rem;
+    font-weight: 700;
+    padding: 0;
+}
+.page-6 .inner .left p{
+    margin-top: 15px;
+}
+.page-6 .inner .righty{
+    width: 100%;
+    height: 60%;
+    }
+    .page-7{
+       padding: 1vw 3vw;
+    }
+    .page-7 .page-right>p{
+    font-size: 1.1rem;
+    line-height: 35px;
+    padding: 2vh 1vw;
+}
+.page-7 .page-7-content h1{
+    font-size: 2rem;
+}
+.page-7-content .container .elem h2{
+    font-size: 1.3rem;
+}
+.page-7-content .container .elem p{
+    width: 60%;
+}
+.page-8-bottom{
+    height: 62vh;
+}
+.page-8-bottom .part-1{
+    width: 0;
+    display: none;
+}
+
+.page-8-bottom .part-2{
+    width: 40%;
+     padding: 3vh 1vh;
+}
+.page-8-bottom .part-3{
+    width: 25%;
+}
+.page-8-bottom .part-4{
+    width: 35%;
+}
+.page-8-bottom .part-5{
+    width: 0;
+    display: none;
+}
+.page-8-bottom  h3{
+    margin-bottom: 3.5vh;
+    font-size: 1.3rem;
+}
+.page-8-bottom  p{
+    width: 85%;
+    margin-left: 1vw;
+    font-size: 14px;
+}
+.page-9 h2{
+    font-size: 2rem;
+}
+}
+
+@media (max-width:480px){
+    .page-1 h1{
+    font-size: 2rem;
+    line-height: 3rem;
+}
+.page-1 p{
+    font-size: 0.8rem;
+   margin-top: 2%;
+}
+.page-1 .multi{
+    gap:0px;
+}
+.page-1 .multi h4{
+    font-size: 0.9rem;
+    font-weight: 400;
+    border: 1px solid rgb(109, 104, 104);
+    border-radius: 20px;
+    padding: 5px 10px;
+    margin-top: 5px;
+    cursor: pointer;
+}
+.moving{
+    margin-top: 0vh;
+    bottom: 7%;
+    width: 80%;
+}
+.moving .move img{
+    height: 3.7vw;
+}
+.page-2 .left h5{
+    width: 100%;
+}
+.page-2 .right .right-elem img{
+    width: 50px;
+    height: 50px;
+}
+.page-3 .center{
+    width: 90px;
+    height: 90px;
+}
+.center img{
+    width: 15px;
+}
+.inner .inner-left{
+    width: 50%    ;
+    height: 100%;
+}
+.inner .inner-right{
+    width: 50%    ;
+    height: 100%;
+    padding: 20px 0;
+}
+.inner .inner-left h2{
+    font-size: 1rem;
+    line-height: 5vw;
+    font-weight: 700px;
+}
+.page-5 .inner .card{
+    width: 45%;
+    height: 35vh;
+}
+.page-5 .inner .card h2{
+    font-size: 2rem;
+}
+.page-6 .inner .left{
+    width: 100%;
+    height: 30%;
+}
+   .page-7{
+       padding: 1vw 2vw;
+    }
+    .page-7 .page-right>p{
+    font-size: 1rem;
+    line-height: 30px;
+}
+.page-7 .page-7-content h1{
+    font-size: 1.7rem;
+}
+.page-7-content .container .elem h2{
+    font-size: 1rem;
+}
+.page-7-content .container .elem p{
+    width: 70%;
+}
+.page-8{
+    padding: 4vw 3vw;
+}
+.page-8 h1{
+    font-size: 5vw;
+}
+.page-8 .page-8-content{
+    margin-top: 2.5vh;
+    padding: 3vh 0;
+}
+.page-8 .page-8-content .right p{
+    font-size: 1.3rem;
+    margin-bottom: 10vh;
+    line-height: 1.3;
+}
+.page-8-bottom{
+    height: 62vh;
+    width: 100%;
+}
+.page-8-bottom .part-2{
+    width: 40%;
+     padding: 3.5vh 0;
+}
+.page-8-bottom .part-3{
+    width: 25%;
+     padding: 3.5vh 0;
+    }
+    .page-8-bottom .part-4{
+        width: 35%;
+        padding: 3.5vh 0;
+}
+.page-8-bottom  h3{
+    margin-bottom: 4vh;
+    font-size: 1.3rem;
+}
+.page-8-bottom  p{
+    width: 80%;
+    margin-left: 0;
+    font-size: 12px;
+}
+.page-8-bottom  span{
+    padding: 3px 7px;
+}
+.page-9{
+    height: 20vh;
+    display: flex;
+    align-items: center;
+}
+.page-9 h2{
+    font-size: 1.5rem;
+}
+}
